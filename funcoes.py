@@ -1,3 +1,13 @@
+## Requirements
+"""
+import pandas as pd
+import plotly.express as px
+
+pd.options.display.max_columns = 500
+
+"""
+
+
 def tabela_frequencia(df,coluna):
 
     '''
