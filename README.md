@@ -10,14 +10,16 @@ Esta análise tem como objetivo entender e mostrar como está a carreira de anal
 Extrair informações de dados não é um processo novo. Há décadas, empresas de todo o mundo já realizam esse processo.
 Cargos como analistas de dados e/ou analistas de BI são os que geralmente realizam essas atividades.
 
-Com o advento do termo e grande área da "Ciência de dados", muitas vagas para cientistas de dados surgiram, entretanto as empresas ainda não estavam maduras e preparadas para ter um melhor aproveitamento destes profissionais. Por este motivo, houve a necessidade de olhar mais para a infraestrutura e estruturação dos dados, através da engenharia de dados.
+Com o advento do termo e grande área da "Ciência de dados", muitas vagas para cientistas de dados surgiram, entretanto as empresas ainda não estavam maduras e preparadas para ter um melhor aproveitamento destes profissionais. Por este motivo, houve a necessidade de olhar mais para a infraestrutura e estruturação dos dados, através da contratação de engenheiros de dados.
 
-Mas e os analistas de dados?
+Mas e como ficou o mercado para os analistas de dados?
 
 Eles ainda possuem um papel importante e valioso nas organizações. 
-A análise motra como a carreira de analista de dados tem estado. Ela inclui uma análise das principais ferramentas utilizadas, atividades cotidianas e faixas sariais. 
 
-É esperado que este projeto seja útil para aqueles que estão interessados em seguir a carreira de analista de dados, assim como aqueles que já trabalham nessa área e desejam conhecer melhor as tendências e as habilidades necessárias para se destacar.
+Esta análise mostra como a carreira de analista de dados no Brasil tem estado. 
+Ela inclui uma análise das principais ferramentas utilizadas, atividades cotidianas, setores de trabalho, faixas sariais, níveis de trabalho, faixas salariais por nível de trabalho e situação de trabalho. 
+
+É esperado que este projeto seja útil para as pessoas que estão interessadas em seguir a carreira de analista de dados, assim como aqueles que já trabalham nessa área e desejam conhecer melhor as tendências e as habilidades necessárias para se destacar.
 
 ### Dados
 Foram utilizadas os dados do [State of Data Brasil - 2021](https://www.kaggle.com/datasets/datahackers/state-of-data-2021)
