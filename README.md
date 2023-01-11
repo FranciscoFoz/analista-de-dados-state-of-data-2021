@@ -15,12 +15,12 @@ Com o advento do termo e grande área da "Ciência de dados", muitas vagas para 
 Mas e os analistas de dados?
 
 Eles ainda possuem um papel importante e valioso nas organizações. 
-A análise motra como a carreira de analista de dados tem estado. Ela inclui uma análise das principais ferramentas utilizadas, atividades cotidianas, faixas sariais e  desafios. 
+A análise motra como a carreira de analista de dados tem estado. Ela inclui uma análise das principais ferramentas utilizadas, atividades cotidianas e faixas sariais. 
 
 É esperado que este projeto seja útil para aqueles que estão interessados em seguir a carreira de analista de dados, assim como aqueles que já trabalham nessa área e desejam conhecer melhor as tendências e as habilidades necessárias para se destacar.
 
 ### Dados
-Foram utilizadas os dados do State of Data Brasil - 2021
+Foram utilizadas os dados do [State of Data Brasil - 2021](https://www.kaggle.com/datasets/datahackers/state-of-data-2021)
 
 
 ## Considerações finais
