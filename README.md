@@ -8,7 +8,7 @@ Esta análise tem como objetivo entender e mostrar como está a carreira de anal
 
 ## Projeto
 Extrair informações de dados não é um processo novo. Há décadas, empresas de todo o mundo já realizam esse processo.
-Cargos como analistas de dados e/ou analistas de BI são os que geralmente realizam essas atividades.
+Cargos como analistas de dados e/ou analistas de BI são os que geralmente realizavam essas atividades.
 
 Com o advento do termo e grande área da "Ciência de dados", muitas vagas para cientistas de dados surgiram, entretanto as empresas ainda não estavam maduras e preparadas para ter um melhor aproveitamento destes profissionais. Por este motivo, houve a necessidade de olhar mais para a infraestrutura e estruturação dos dados, através da contratação de engenheiros de dados.
 
