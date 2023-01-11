@@ -24,6 +24,9 @@ Ela inclui uma análise das principais ferramentas utilizadas, atividades cotidi
 ### Dados
 Foram utilizadas os dados do [State of Data Brasil - 2021](https://www.kaggle.com/datasets/datahackers/state-of-data-2021)
 
+### Análise
+
+Clique [aqui](https://github.com/FranciscoFoz/analista-de-dados-state-of-data-2021/blob/main/Notebook/Analise_carreira_analista_de_dados.ipynb) para ver o notebook da análise.
 
 ## Considerações finais
 O profissional analista de dados é um importante interlecutor entre a área de negócio e a área de dados, sempre buscando trazer mais valor para o negócio através dos dados.
