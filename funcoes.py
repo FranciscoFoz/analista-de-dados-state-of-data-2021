@@ -92,7 +92,7 @@ def grafico_barras(tabela,rotulo_eixo_y,titulo,quantidade_cores,quantidade_barra
     fig.update_layout(
         title=titulo,
         title_font_size=20,
-        yaxis_title=coluna,
+        yaxis_title=rotulo_eixo_y,
         showlegend=False)
     
     fig.show()
